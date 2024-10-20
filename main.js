@@ -277,12 +277,12 @@ let message = document.querySelector(".message");
 message.addEventListener("click", () => {
     Swal.fire({
         title: "You have a new message!",
-        text: "Here is a letter for you.",
-        imageUrl: "./a.jpg",
-        imageWidth: 400,
-        imageHeight: 400,
-        imageAlt: "Letter with a rose",
-        confirmButtonText: "Thank you!",
+        text: "Chúc cô và các bạn có một ngày 20 tháng 10 vui vẻ và ý nghĩa, nhận nhiều quà và nhiều hoa",
+        imageUrl: "./z5949100312189_fba6504dda49c9a923bb051f3041c90a.jpg",
+        imageWidth: 8000,
+        imageHeight: 200,
+        imageAlt: "Chúc cô và các bạn có một ngày 20 tháng 10 vui vẻ và ý nghĩa, ",
+        confirmButtonText: "Happy Women's day",
         customClass: {
             image: "cover"
         }
